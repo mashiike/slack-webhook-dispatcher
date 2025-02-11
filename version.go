@@ -1,3 +1,3 @@
 package slackwebhookdispatcher
 
-var Version = "v0.0.0"
+var Version = "v0.1.0"
