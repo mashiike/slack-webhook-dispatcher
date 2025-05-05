@@ -4,7 +4,7 @@ go 1.23
 
 require (
 	github.com/aws/aws-sdk-go-v2/config v1.29.6
-	github.com/fujiwara/ridge v0.12.1
+	github.com/fujiwara/ridge v0.13.0
 	github.com/fujiwara/ssm-lookup v0.1.1
 	github.com/google/cel-go v0.23.2
 	github.com/google/go-jsonnet v0.20.0
@@ -18,7 +18,7 @@ require (
 	cel.dev/expr v0.19.1 // indirect
 	github.com/BurntSushi/toml v1.3.0 // indirect
 	github.com/antlr4-go/antlr/v4 v4.13.0 // indirect
-	github.com/aws/aws-lambda-go v1.47.0 // indirect
+	github.com/aws/aws-lambda-go v1.48.0 // indirect
 	github.com/aws/aws-sdk-go-v2 v1.36.1 // indirect
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.59 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.28 // indirect
@@ -37,7 +37,7 @@ require (
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
-	github.com/pires/go-proxyproto v0.7.0 // indirect
+	github.com/pires/go-proxyproto v0.8.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/stoewer/go-strcase v1.2.0 // indirect
 	golang.org/x/exp v0.0.0-20230515195305-f3d0a9c9a5cc // indirect
